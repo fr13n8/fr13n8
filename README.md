@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-### My Name is Eric Hovsepyan
+### My Name is Erik Hovsepyan
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fr13n8&theme=midnight-purple&layout=compact)
 
