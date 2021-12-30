@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![Javascript](https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)&nbsp;
 [![Vue](https://img.shields.io/badge/-Vue-384960?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)&nbsp;
 [![Vuetify](https://img.shields.io/badge/-Vuetify-1696f5?style=flat-square&logo=vuetify&logoColor=white)](https://vuetifyjs.com/)&nbsp;
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)&nbsp;
 \
 [![Docker](https://img.shields.io/badge/-Docker-43853d?style=flat-square&logo=Docker&logoColor=blue)](https://www.docker.com/)&nbsp;
 [![Nginx](https://img.shields.io/badge/-Nginx-43853d?style=flat-square&logo=nginx&logoColor=green)](https://www.nginx.com/)&nbsp;
