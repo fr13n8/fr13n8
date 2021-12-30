@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 \
 [![Docker](https://img.shields.io/badge/-Docker-43853d?style=flat-square&logo=Docker&logoColor=blue)](https://www.docker.com/)&nbsp;
 [![Nginx](https://img.shields.io/badge/-Nginx-43853d?style=flat-square&logo=nginx&logoColor=green)](https://www.nginx.com/)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-43853d?style=flat-square&logo=git&logoColor=green)](https://git-scm.com/)&nbsp;
 \
 [![Mysql](https://img.shields.io/badge/-Mysql-43853d?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)&nbsp;
 [![Mysql](https://img.shields.io/badge/-Postgresql-1696f5?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)&nbsp;
