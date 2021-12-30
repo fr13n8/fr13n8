@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)&nbsp;
 \
 [![Docker](https://img.shields.io/badge/-Docker-253139?style=flat-square&logo=Docker&logoColor=blue)](https://www.docker.com/)&nbsp;
-[![Nginx](https://img.shields.io/badge/-Nginx-43853d?style=flat-square&logo=nginx&logoColor=green)](https://www.nginx.com/)&nbsp;
+[![Nginx](https://img.shields.io/badge/-Nginx-20201E?style=flat-square&logo=nginx&logoColor=green)](https://www.nginx.com/)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git&logoColor=red)](https://git-scm.com/)&nbsp;
 \
 [![Mysql](https://img.shields.io/badge/-Mysql-0E0E0E?style=flat-square&logo=mysql&logoColor=276088)](https://www.mysql.com/)&nbsp;
