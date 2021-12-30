@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 [![Nginx](https://img.shields.io/badge/-Nginx-43853d?style=flat-square&logo=nginx&logoColor=green)](https://www.nginx.com/)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git&logoColor=red)](https://git-scm.com/)&nbsp;
 \
-[![Mysql](https://img.shields.io/badge/-Mysql-43853d?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)&nbsp;
-[![Mysql](https://img.shields.io/badge/-Postgresql-1696f5?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)&nbsp;
+[![Mysql](https://img.shields.io/badge/-Mysql-0E0E0E?style=flat-square&logo=mysql&logoColor=276088)](https://www.mysql.com/)&nbsp;
+[![Postgresql](https://img.shields.io/badge/-Postgresql-1696f5?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)&nbsp;
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fr13n8&theme=chartreuse-dark&layout=compact)
 
