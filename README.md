@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git&logoColor=red)](https://git-scm.com/)&nbsp;
 \
 [![Mysql](https://img.shields.io/badge/-Mysql-0E0E0E?style=flat-square&logo=mysql&logoColor=276088)](https://www.mysql.com/)&nbsp;
-[![Postgresql](https://img.shields.io/badge/-Postgresql-97AFC8?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)&nbsp;
+[![Postgresql](https://img.shields.io/badge/-Postgresql-97AFC8?style=flat-square&logo=postgresql&logoColor=blue)](https://www.postgresql.org/)&nbsp;
 \
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
