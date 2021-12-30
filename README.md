@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### My Name is Erik Hovsepyan
 
 ### Languages & Tools
-<img alt="Go" src="https://img.shields.io/badge/-Go-43853d?style=flat-square&logo=Go&logoColor=blue" />&nbsp;<img alt="Php" src="https://img.shields.io/badge/-Php-43853d?style=flat-square&logo=Php&logoColor=blue" />&nbsp;<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-43853d?style=flat-square&logo=Laravel&logoColor=red" />
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)&nbsp;<img alt="Php" src="https://img.shields.io/badge/-Php-43853d?style=flat-square&logo=Php&logoColor=blue" />&nbsp;<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-43853d?style=flat-square&logo=Laravel&logoColor=red" />
 \
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />&nbsp;<img alt="Vue" src="https://img.shields.io/badge/-Vue-384960?style=flat-square&logo=vue.js&logoColor=white" />&nbsp;<img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1696f5?style=flat-square&logo=vuetify&logoColor=white" />&nbsp;<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 \
