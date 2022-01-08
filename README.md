@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 [![Postgresql](https://img.shields.io/badge/-Postgresql-97AFC8?style=flat-square&logo=postgresql&logoColor=blue)](https://www.postgresql.org/)&nbsp;
 \
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![Neovim](https://img.shields.io/badge/-Nvim-333333?style=flat-square&logo=vim&logoColor=green)](https://neovim.io/)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fr13n8&theme=chartreuse-dark&layout=compact)
 
