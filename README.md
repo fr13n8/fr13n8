@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 ### Languages & Tools
 [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 \
-[![Javascript](https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)&nbsp;
-\
 [![Php](https://img.shields.io/badge/-Php-21232F?logo=php&logoColor=blue)](https://www.php.net/)&nbsp;
 [![Laravel](https://img.shields.io/badge/-Laravel-E4392C?logo=laravel&logoColor=white)](https://laravel.com/)
 \
