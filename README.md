@@ -15,4 +15,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fr13n8&theme=chartreuse-dark&show_icons=true&count_private=true)&nbsp;
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fr13n8&theme=chartreuse-dark&layout=compact)
 
+### Badges
 ![Codewars](https://www.codewars.com/users/fr13n8/badges/large)
+![HTB](https://www.hackthebox.com/badge/image/282711)
