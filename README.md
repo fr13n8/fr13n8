@@ -17,4 +17,4 @@
 
 ### Badges
 ![Codewars](https://www.codewars.com/users/fr13n8/badges/large)
-![HTB](https://www.hackthebox.com/badge/image/282711)
+[ ![HTB](https://www.hackthebox.com/badge/image/282711)](https://app.hackthebox.com/profile/282711)
