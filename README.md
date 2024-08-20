@@ -9,7 +9,7 @@ var me = struct {
   hobbies []string
 }{
   name: []rune("Erik"),
-  stack: struct {
+  stack: &struct {
     frontend []string
     backend  []string
     tech     []string
