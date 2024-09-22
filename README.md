@@ -2,29 +2,9 @@
 
 Responsible and results-oriented Go developer, as well as a passionate cybersecurity enthusiast, eager to research, for which use the platform - HTB (HackTheBox).
 
-```go
-var me = struct {
-  name    []rune
-  stack   interface{}
-  hobbies []string
-}{
-  name: []rune("Erik"),
-  stack: &struct {
-    frontend []string
-    backend  []string
-    tech     []string
-    devops   []string
-    os       []string
-  }{
-    []string{"js", "ts", "react", "vue", "next", "nuxt", "effector"},
-    []string{"go", "nodejs", "php"},
-    []string{"postgresql", "mongodb", "vscode", "nvim", "git"},
-    []string{"docker", "ansible"},
-    []string{"linux", "windows"},
-  },
-  hobbies: []string{"cybersec", "pentesting"},
-}
-```
+<div align="center">
+  ![Matrix](matrix.svg)
+</div>
 
 ### Badges
 ![Codewars](https://www.codewars.com/users/fr13n8/badges/large)
