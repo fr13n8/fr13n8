@@ -1,6 +1,6 @@
 **<p align=center> 🛡️ Welcome to my GitHub profile! 🛡️ </p>**
 
-I'm Erik, a responsible and results-oriented Go developer, as well as a passionate cybersecurity enthusiast, eager to research, for which use the platform - HTB (HackTheBox).
+I'm Erik, a responsible and results-oriented Go/JavaScript developer, as well as a passionate cybersecurity enthusiast, eager to research, for which use the platform - HTB (HackTheBox).
 
 <div align="center">
 
