@@ -4,11 +4,6 @@ I'm Erik, a responsible and results-oriented Go/JavaScript developer, as well as
 
 <div align="center">
 
-  ![Matrix](matrix.svg)
-</div>
-
-<div align="center">
-
   ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr13n8&theme=github_dark)
   ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fr13n8&theme=github_dark)
   ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr13n8&theme=github_dark)
